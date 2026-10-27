@@ -116,3 +116,32 @@
         }
     }
 }
+.d{
+    padding: 100px;
+    .dd{
+        background-image: url(./img24.svg);
+        background-size: cover;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        padding: 60px 90px 1px 10px;
+        .d1{
+            padding: 40px;
+            font-size: 20px;
+            .qw{
+                display: flex;
+                align-items: center;
+                gap: 20px;
+                color: #0E9E2F;
+            }
+        }
+        .d2{
+            padding: 40px;
+            background-color: #0E9E2F;
+            border-radius: 1px 90px 1px 1px;
+            div{
+                margin-top: 90px;
+            }
+        }
+    }
+}
