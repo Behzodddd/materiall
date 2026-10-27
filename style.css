@@ -170,3 +170,24 @@
         }
     }
 }
+.j{
+    background-image: url(./img30.svg);
+    background-size: cover;
+    padding: 90px;
+    text-align: center;
+    color: white;
+    h1{
+        font-size: 50px;
+    }
+    p{
+        font-size: 20px;
+    }
+    button{
+        padding: 10px;
+        width: 150px;
+        height: 40px;
+        background-color: #0E9E2F;
+        border-radius: 5px;
+        color: white;
+    }
+}
