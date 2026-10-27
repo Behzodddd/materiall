@@ -191,3 +191,36 @@
         color: white;
     }
 }
+.z{
+    padding: 90px;
+    .z1{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        border-bottom: 2px solid gray;
+        h1{
+            font-size: 50px;
+        }
+    }
+    .z2{
+        display: flex;
+        align-items: center;
+        gap: 60px;
+        padding: 20px;
+        .zd{
+            width: 360px;
+            height: 403px;
+            padding: 10px;
+            background-color:#F6F6F7 ;
+            .zf{
+              display: flex;
+              align-items: center;
+              justify-content: space-between;  
+            }
+            h2{
+                color: #0E9E2F;
+            }
+        }
+    }
+}
