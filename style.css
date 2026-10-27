@@ -83,3 +83,36 @@
         }
     }
 }
+.s{
+    padding: 80px;
+    .sd{
+        text-align: center;
+        font-size: 45px;
+        color: #494B44;
+    }
+    .ss{
+        display: flex;
+        justify-content: center;
+        margin-top: 180px;
+        .sss{
+            .s1{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 50px;
+                h1{
+                    color: #0E9E2F;
+                }
+                P{
+                    color: #92938F;
+                }
+            }
+            .s2{
+                margin-top: 40px;
+                display: flex;
+                align-items: center;
+                gap: 25px;
+            }
+        }
+    }
+}
