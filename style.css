@@ -145,3 +145,28 @@
         }
     }
 }
+.g{
+    padding: 60px;
+    .gf{
+        display: flex;
+        justify-content: center;
+        .gg{
+            display: flex;
+            justify-content: space-between;
+            .g1{
+                font-size: 30px;
+            }
+            .g2{
+                display: flex;
+                align-items: center;
+                gap: 50px;
+                color:#92938F ;
+                .gh{
+                    display: flex;
+                    flex-direction: column;
+                    gap: 30px;
+                }
+            }
+        }
+    }
+}
